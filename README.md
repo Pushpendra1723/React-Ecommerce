@@ -14,9 +14,5 @@
 <h4><strong>7-Product Details : </strong>Click on any product to access comprehensive details, including high-quality images, descriptions, prices, and customer reviews, helping you make informed decisions.</h4>
 <h2 align="center">File Structure</h2>
 
-<h3>Getting Started with Create React App</h3>
-<h4>In the project directory, you can run:</h4>
-##npm start
-<h4></h4>
 
 
