@@ -13,9 +13,6 @@
 <h4><strong>5-Increment and Decrement : </strong>Fine-tune your shopping list by increasing or decreasing item quantities in your cart. Ensure you get exactly what you need.</h4>
 <h4><strong>6-Clear Cart : </strong>We can directly removed all items selected from the cart.</h4>
 <h4><strong>7-Product Details : </strong>Click on any product to access comprehensive details, including high-quality images, descriptions, prices, and customer reviews, helping you make informed decisions.</h4>
-<hr>
-<h6 align="center">copyright @ Pushpendra Kumar</h2>
-
 
 ## Available Scripts
 
@@ -83,3 +80,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<hr>
+<h6 align="center">copyright @ Pushpendra Kumar</h2>
+
+
